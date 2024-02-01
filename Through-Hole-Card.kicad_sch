@@ -682,19 +682,10 @@
     (uuid fd935262-5905-4784-8136-6c9a7a5de4d7)
   )
 
-  (text "DS1302 mi ne o gelcek bir de 3 wire kullanıyor ona da bak\n"
-    (at 101.6 35.56 0)
+  (text "Pin 5 i pin 4 e taşı\nPin 5 de arıza veriyor yeni versionda bunu düzelt\n"
+    (at 100.33 38.1 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
-    (uuid 2de9800d-4b4a-4d03-bae6-b1b2a34bb9c4)
-  )
-  (text "Pinleri öncesinde bağla breadboardda sıkıntı veriyor mu bak\n"
-    (at 100.33 41.91 0)
-    (effects (font (size 1.27 1.27)) (justify left bottom))
-    (uuid 5a4cd94e-bb2f-4d8f-a70c-457a457934ce)
-  )
-  (text "5V VIN Oluyor mu bak\n\n" (at 99.06 48.26 0)
-    (effects (font (size 1.27 1.27)) (justify left bottom))
-    (uuid fa44fac1-a593-4927-8f44-037e5a61f0ce)
+    (uuid be9b91fd-a310-4a79-ae64-4df217c09620)
   )
 
   (label "SDA" (at 167.64 59.69 180) (fields_autoplaced)
