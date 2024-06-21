@@ -1,4 +1,4 @@
-22514969703647126
+22528695107483703
 AMPSEAL
 TE_1-770669-1
 
@@ -91224,6 +91224,13 @@ varistor
 2
 2
 easyeda2kicad
+BAT-TH_MYOUNG_BS-02-A1AJ006
+
+
+0
+2
+2
+easyeda2kicad
 BUZ-SMD_4P-L8.5-W8.5-P8.50-TL
 
 
@@ -91826,6 +91833,20 @@ LED0603-R-RD_WHITE
 2
 2
 easyeda2kicad
+LED0603-RD_RED
+
+
+0
+2
+2
+easyeda2kicad
+LGA-8_BME280_BL
+
+
+0
+8
+8
+easyeda2kicad
 LGA-12_L2.0-W2.0-P0.50-BL
 
 
@@ -91945,6 +91966,13 @@ OSC-SMD_4P-L3.2-W2.5-BL_SIT8008BI
 4
 4
 easyeda2kicad
+OSC-TH_BD2.0-P0.70-D0.3
+
+
+0
+2
+2
+easyeda2kicad
 PCIE-SMD_75P-P0.50_1-2199230-5
 
 
@@ -91981,6 +92009,13 @@ PWRM-TH_URBXXXXYMD-15WR3
 6
 easyeda2kicad
 QFN-24_L4.0-W4.0-P0.50-BL-EP2.6
+
+
+0
+25
+25
+easyeda2kicad
+QFN-24_L4.0-W4.0-P0.50-BL-EP2.7
 
 
 0
@@ -92169,12 +92204,26 @@ SIM-SMD_503960-0696
 14
 9
 easyeda2kicad
+SIM-SMD_475531001
+
+
+0
+12
+10
+easyeda2kicad
 SIM-SMD_1042240820
 
 
 0
 12
 12
+easyeda2kicad
+SIM-SMD_GT-TF003-H0185-02
+
+
+0
+15
+13
 easyeda2kicad
 SMA-TH_5-1814832-2
 
@@ -92268,6 +92317,13 @@ SO-14_L8.7-W3.9-P1.27-LS6.0-BL
 14
 easyeda2kicad
 SOD-123F_L2.7-W1.6-LS3.8-RD
+
+
+0
+2
+2
+easyeda2kicad
+SOD-323_L1.8-W1.3-LS2.5-RD
 
 
 0
