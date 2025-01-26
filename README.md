@@ -43,7 +43,7 @@ The system records data when a **threshold G-force** is exceeded, indicating a p
 ### Software Setup
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/gforce-environment-monitor.git
+   git clone https://github.com/onurkarakoc79/Cargo-Damage-Detection-System
    ```
 2. Open the project in the Arduino IDE or PlatformIO.
 3. Install the required libraries:
@@ -80,5 +80,13 @@ Contributions are welcome! Feel free to open an issue or submit a pull request t
 This project is licensed under the MIT License. See the `LICENSE` file for more details.
 
 ## Contact
-For inquiries or support, please reach out at [your.email@example.com](mailto:your.email@example.com).
+
+If you have any questions, feedback, or inquiries related to the project, feel free to reach out to me:
+
+My personal mail: onurkarakoc79@gmail.com
+
+       
+I appreciate your interest in my projects and look forward to collaborating with you in the fascinating field of scientific exploration and discovery.
+
+
 
